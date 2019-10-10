@@ -1,2 +1,2 @@
 # amazon-repo-demo
-Just an example
+- Welcome to my repository everyone
